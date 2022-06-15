@@ -1,4 +1,4 @@
-cluster2021 is a source directory of gekyll.
+cluster2022 is a source directory of gekyll.
 $ bundle exec jekyll b
 generates html files in _site directory.
 pages/*.md files are source files of each html files.
