@@ -24,3 +24,4 @@
 - Add workshop charis
 - Update Venue info
 - Update IEEE Cluster logo
+- Before publishing make index.html broken_index.html
